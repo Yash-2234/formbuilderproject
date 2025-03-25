@@ -6,7 +6,4 @@
 Utilized Express and MongoDB on the backend for efficient data management and storage.
 * Implemented secure user authentication with JSONWebToken and Bcryptjs for encrypting passwords, and provided additional authentication options with OAuth of Google and Github.
 
-
-To see the backend go to https://github.com/siddhant-deshmukh/GoogleFormClone-api-docker
-
 ![Alt Text](./features.gif)
